@@ -1,3 +1,3 @@
 # apnacollege-demo
--this is git my repository <br>
--author jaydeep pampaniya
+This is git my repository. <br>
+Author jaydeep pampaniya.
